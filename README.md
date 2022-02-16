@@ -7,3 +7,5 @@ My general objective is to integrate chuncks of code that can be used to develop
 
 ### Code origin
 I will recognise code authors, explicitly present licenses granted, and repositories. 
+
+For the code I orginally develop license will be specified in time.
