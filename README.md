@@ -9,3 +9,15 @@ My general objective is to integrate chuncks of code that can be used to develop
 I will recognise code authors, explicitly present licenses granted, and repositories. 
 
 For the code I orginally develop license will be specified in time.
+
+# modelado del proceso de infección
+### Introducción
+Este repositorio incluirá varias forma de modelar una infección viral, usando diferentes leguajes. Esto no significa que planeo desarrollar cada modelo en cada lenguaje, para esa tarea es bienvenida la ayuda. Para mis necesidades y objetivos particulares prefiero usar Julia, aunque serán incluidos otros lenguajes.
+
+### Objetivo
+Mi objetivo general es integrar segmentos de código que pueden ser utilizados para desarrollar un modelo opidemiológico. Ya que estos modelos pueden llegar a ser muy complejos debido a la gran cantidad de elementos  que integran una epidemia (comorbilidades, medidas de prevención, etc.), planeo trabajar en segmentos en vez de un modelo completo, para poder integrarlos como funciones para estudiar partes específicas de una epidemia y su evolución..
+
+### Origen del código
+Daré reconocimiento a los autores del código, presentando explícitamente las licencias otorgadas, y los repositorios. 
+
+Para el código desarrollado por mi, las licencias serán especificadas en su momento.
